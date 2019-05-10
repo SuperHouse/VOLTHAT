@@ -1,26 +1,6 @@
-AntBrain Robot Controller
-==========================
-Copyright 2018 Freetronics Pty Ltd  www.freetronics.com  
-
-The AntBrain is a tiny robot controller intended for ant-weight class
-combat robots.
-
-It uses the same ATmega328P MCU as the Arduino Uno, and adds 2 H-bridge
-motor controllers to drive wheels and a servo output to control a
-weapon. A radio control receiver mounts directly onto the board so the
-Arduino can read the control signals.
-
-Features:
-
- * ATmega328P MCU
- * 2 x L9110S H-bridge motor drivers
- * Mount for Flysky radio receiver
- * Servo output
-
-You can view more online at:
-
-  http://www.freetronics.com.au/antbrain
-
+Voltage Regulator Hat for Raspberry Pi
+=======================================
+Designed by Nick Fryer and Jonathan Oxer
 
 INSTALLATION
 ------------
@@ -42,8 +22,3 @@ LICENSE
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
 The "license" folder within this repository also contains a copy of
 this license in plain text format.
-
-
-CREDITS
--------
-Designed by Jonathan Oxer (jon@freetronics.com)
