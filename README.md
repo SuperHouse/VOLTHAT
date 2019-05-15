@@ -2,6 +2,12 @@ Voltage Regulator Hat for Raspberry Pi
 =======================================
 Designed by Nick Fryer and Jonathan Oxer
 
+FEATURES
+--------
+
+Supply power via screw terminals, 2.1mm DC jack, or the PoE header on
+Raspberry Pi 3 B+. Regulates down to 5V to supply the Raspberry Pi.
+
 INSTALLATION
 ------------
 The design is saved as an EAGLE project. EAGLE PCB design software is
