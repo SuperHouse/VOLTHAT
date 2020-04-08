@@ -8,7 +8,9 @@ FEATURES
 Supply power via screw terminals, 2.1mm DC jack, or the PoE header on
 Raspberry Pi 3 B+. Regulates down to 5V to supply the Raspberry Pi.
 
-I2C header and prototyping area.
+ * I2C header for OLED.
+ * I2C-BREAKOUT header.
+ * Prototyping area.
 
 INSTALLATION
 ------------
